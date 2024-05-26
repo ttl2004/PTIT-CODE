@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 const int N=2000000;
-//Tham khao nha chu mik cung ko biet lam bai nay :))
 int n;
 int a[25][25];
 int F[N];
